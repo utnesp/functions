@@ -13,6 +13,6 @@ source_https <- function(url, ...) {
 }
 
 
-source_https("https://raw.githubusercontent.com/utnesp/parallell_functions/master/R/functions")
+source_https("https://raw.githubusercontent.com/utnesp/functions/master/R/functions.R")
 
 ```
